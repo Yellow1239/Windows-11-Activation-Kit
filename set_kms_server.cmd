@@ -1,0 +1,1 @@
+slmgr /skms kms8.msguides.com
